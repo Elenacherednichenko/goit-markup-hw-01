@@ -57,33 +57,33 @@
         <h2>Чем мы занимаемся</h2> 
         <ul>
         <li>
-         <img src="./Users/marycherednichenko/Desktop/imeges/img1.jpg" width="370" alt="фото комп1">
+         <img src="./Users/marycherednichenko/Desktop/imeges/img12.jpg" width="370" alt="фото комп1">
       </li>
         <li>
-         <img src="./Users/marycherednichenko/Desktop/imeges/img2.jpg" width="370" alt="фото комп2">
+         <img src="./Users/marycherednichenko/Desktop/imeges/img21.jpg" width="370" alt="фото комп2">
       </li>
         <li>
-         <img src="./Users/marycherednichenko/Desktop/imeges/img.jpg" width="370" alt="фото комп3">
+         <img src="./Users/marycherednichenko/Desktop/imeges/img11.jpg" width="370" alt="фото комп3">
       </li></ul>
      <section>   <h2>Наша команда</h2>
         <ul>
         <li>
-         <img src="./Users/marycherednichenko/Desktop/imeges/img.jpg" width="270" alt="Фото игорь">
+         <img src="./Users/marycherednichenko/Desktop/imeges/img1.jpg" width="270" alt="Фото игорь">
          <h3>Игорь Демьяненко</h3>
 <p lang="en">Product Designer</p>
 </li>
 <li>
-   <img src="./Users/marycherednichenko/Desktop/imeges/img-2.jpg" width="270" alt="Фото ольга">
+   <img src="./Users/marycherednichenko/Desktop/imeges/img2.jpg" width="270" alt="Фото ольга">
    <h3>Ольга Репина</h3>
 <p lang="en">Frontend developer</p>
 </li>
 <li>
-   <img src="./Users/marycherednichenko/Desktop/imeges/img-3.jpg" alt="Фото николай" width="270">
+   <img src="./Users/marycherednichenko/Desktop/imeges/img3.jpg" alt="Фото николай" width="270">
    <h3>Николай Тарасов</h3>
 <p lang="en">Marketing</p>
 </li>
 <li>
-   <img src="./Users/marycherednichenko/Desktop/imeges/img-4.jpg" alt="Фото михаила" width="270">
+   <img src="./Users/marycherednichenko/Desktop/imeges/img4.jpg" alt="Фото михаила" width="270">
    <h3>Михаил Ермаков</h3>
 <p lang="en">Designer</p>
 </li>
